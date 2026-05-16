@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /config/
 
-Sitemap: https://cwensoft.github.com
+Sitemap: https://cwensoft.github.io
