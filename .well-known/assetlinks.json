@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cwensoft.record",
+      "sha256_cert_fingerprints":
+        ["B1:72:63:A5:87:42:AB:3C:1C:8A:C7:2E:45:FD:1C:77:5F:CB:92:8E:F9:D2:AE:E5:93:8B:41:AD:24:10:0E:44",
+"EF:59:B5:2C:00:C7:8F:08:84:1D:31:73:0B:8F:94:F0:E1:86:F7:D2:53:7C:32:D6:5B:BF:8E:17:67:91:BE:4D"]
+    }
+  }
+]
